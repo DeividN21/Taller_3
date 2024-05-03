@@ -6,10 +6,6 @@ Taller 3: Comparación de Programación Tradicional y Visual Scripting en Unity
 - Experimentar con la implementación de movimiento y disparos de un objeto en un juego.
 - Evaluar las ventajas y desventajas de cada enfoque de programación.
 
-# Enlaces de Assets y Ambientes Utilizados en el Proyecto:
-### Fondo para el cielo:
-- https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
-
 # Vista General de la Escena
 ![Imagen](https://github.com/DeividN21/Mi_Terreno_1/blob/main/Imagen.png?raw=true)
 
