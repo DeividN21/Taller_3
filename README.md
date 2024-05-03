@@ -23,6 +23,7 @@ Se debe ir disparando a los enemigos porque estos se generan cada cierto tiempo.
 ![Imagen](https://github.com/DeividN21/Taller_3/blob/main/Tanque2.png?raw=true)
 ### Tercero:
 La ejecución de la escena termina si uno de los enemigos choca con la pared inferior. Es decir, se debe iniciar la ejecución nuevamente.
+
 ![Imagen](https://github.com/DeividN21/Taller_3/blob/main/Fin.png?raw=true)
 
 # Enlace del Video de Demostración
